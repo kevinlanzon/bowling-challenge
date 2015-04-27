@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/github/kevinlanzon/bowling-challenge/badges/gpa.svg)](https://codeclimate.com/github/kevinlanzon/bowling-challenge)
 [![Build Status](https://travis-ci.org/kevinlanzon/bowling-challenge.svg?branch=master)](https://travis-ci.org/kevinlanzon/bowling-challenge)
 Bowling Score Card
 ==========

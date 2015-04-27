@@ -1,4 +1,5 @@
-Bowling Score Card    [![Build Status](https://travis-ci.org/kevinlanzon/bowling-challenge.svg?branch=master)](https://travis-ci.org/kevinlanzon/bowling-challenge)
+[![Build Status](https://travis-ci.org/kevinlanzon/bowling-challenge.svg?branch=master)](https://travis-ci.org/kevinlanzon/bowling-challenge)
+Bowling Score Card
 ==========
 
 Makers Academy Week 5 Challenge
